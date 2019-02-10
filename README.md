@@ -1,2 +1,2 @@
-# WsxDemo
-My Demos
+# WsxPods
+My podspec
